@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Manish Singh",
+    "title": "Walmart's PhonePe launches app store with zero fee in challenge to Google | TechCrunch",
+    "description": "PhonePe launched the Indus AppStore Developer Platform on Saturday, promising no platform fee or commission on in-app purchases as the Walmart-backed",
+    "url": "https://techcrunch.com/2023/09/22/phonepe-indus-appstore-walmart/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1250784309.jpg?resize=1200,800",
+    "publishedAt": "2023-09-23T06:32:31Z",
+    "content": "PhonePe launched the Indus AppStore Developer Platform on Saturday, promising no platform fee or commission on in-app purchases as the Walmart-backed fintech races to win Android developers in Google… [+1770 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Anna Heim",
+    "title": "Disability tech startups kill the cynic in me | TechCrunch",
+    "description": "\"Accessibility is a human right,\" reads a sticker from the Howe Innovation Center. And for sure, it is great to see startups help companies make this a reality.",
+    "url": "https://techcrunch.com/2023/09/23/disability-tech-startup-battlefield/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/Revolve_wheelchair_Airport_folded_and_unfolded_Revolve_Mobility.jpg?resize=1200,800",
+    "publishedAt": "2023-09-22T23:40:46Z",
+    "content": "Welcome to the TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday? Sign up here.\r… [+805 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Elon Musk threatens to charge for X, OpenAI launches DALL-E 3 and Cisco acquires Splunk | TechCrunch",
+    "description": "In this edition of Week in Review (WiR), we cover Elon Musk threatening to charge for X, OpenAI launching DALL-E 3 and Cisco acquiring Splunk.",
+    "url": "https://techcrunch.com/2023/09/23/elon-musk-threatens-to-charge-for-x-openai-launches-dall-e-3-and-cisco-acquires-splunk/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-beheads-twitter-logo.jpg?resize=1200,675",
+    "publishedAt": "2023-09-22T23:01:15Z",
+    "content": "Welcome to Week in Review (WiR), TechCrunch’s regular newsletter covering the past few days in tech. The TC crew — including this reporter — is coming off the high of Disrupt, which hopefully some of… [+6301 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Nidhi Jain",
+    "title": "How CFOs can reduce SaaS spend by 30% in these tough times | TechCrunch",
+    "description": "Software spending is now the third-biggest expense for organizations, right after employee and office costs.",
+    "url": "https://techcrunch.com/2023/09/22/how-cfos-can-reduce-saas-spend-by-30-in-these-tough-times/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1334442393.jpg?resize=1200,673",
+    "publishedAt": "2023-09-22T22:51:23Z",
+    "content": "In today’s business world, every dollar counts for more than ever before. The current economic downturn, funding crunch, and race to be cash-flow positive are forcing organizations to reevaluate budg… [+2479 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Devin Coldewey",
+    "title": "Unity U-turns on controversial runtime fee and begs forgiveness | TechCrunch",
+    "description": "Unity has done a 180 on a controversial new pricing scheme that users of its cross-platform game engine almost unanimously disparaged. A new pricing",
+    "url": "https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/unity-logo.jpeg?resize=1200,675",
+    "publishedAt": "2023-09-22T18:55:12Z",
+    "content": "Unity has done a 180 on a controversial new pricing scheme that users of its cross-platform game engine almost unanimously disparaged. A new pricing policy is still incoming, but it’s far less fraugh… [+2487 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Haje Jan Kamps",
+    "title": "Pitch Deck Teardown: Transcend's $20M Series B deck | TechCrunch",
+    "description": "$20 million doesn't lie, so let's see where Transcend, er, transcends and where it remains painfully mortal.",
+    "url": "https://techcrunch.com/2023/09/22/sample-series-b-pitch-deck-transcend/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/Transcend-pitch-deck-teardown-slide-COVER.jpg?resize=1200,675",
+    "publishedAt": "2023-09-22T18:05:29Z",
+    "content": "If you’ve ever had to plan a large infrastructure project like building a new section of a city or trying to figure out how much water and wastewater you need in a certain area you’ve probably run in… [+5874 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Walter Thompson",
+    "title": "TechCrunch+ Roundup: Prompt engineering, web3 gaming survey, how to spend $10K on paid ads | TechCrunch",
+    "description": "TechCrunch Disrupt 2023 ended yesterday, and out of all the events I've attended since working here, this one was my favorite.",
+    "url": "https://techcrunch.com/2023/09/22/techcrunch-roundup-prompt-engineering-web3-gaming-survey-how-to-spend-10k-on-paid-ads/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1694446518.jpg?resize=1200,799",
+    "publishedAt": "2023-09-22T17:55:07Z",
+    "content": "Few VCs are experts in machine learning or building deep learning frameworks, but most of them are pretty good with unit economics.\r\nWhich is why they’re laser-focused on generative AI’s tech stack.\r… [+5296 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Haje Jan Kamps",
+    "title": "Bay Area baby belly beholding Battlefield bounty | TechCrunch",
+    "description": "This week, the TechCrunch team descended on San Francisco’s Moscone Center to celebrate one of the biggest to-dos in the startup world: TechCrunch Disrupt.",
+    "url": "https://techcrunch.com/2023/09/22/bay-area-baby-belly-beholding-battlefield-bounty/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/20230921-DSC02586.jpg?resize=1200,800",
+    "publishedAt": "2023-09-22T00:29:16Z",
+    "content": "Welcome to Startups Weekly. Sign up here to get it in your inbox every Friday.\r\nIf this newsletter comes across as a deranged delirium of barely coherent words, then blame TechCrunch Disrupt. This we… [+4463 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Tim De Chant",
+    "title": "LimeLoop’s sleek reusable mailers seek to replace cardboard boxes | TechCrunch",
+    "description": "The startup’s smart mailers are reusable dozens of times, reducing the carbon footprint by 90% compared with cardboard boxes.",
+    "url": "https://techcrunch.com/2023/09/22/lime-loop-reusable-packaging/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-692790776.jpg?resize=1200,668",
+    "publishedAt": "2023-09-21T19:34:01Z",
+    "content": "The era of e-commerce has brought choice, convenience, and cardboard boxes. Oh, so many cardboard boxes.\r\nEverything goes in packaging these days, said Chantal Emmanuel, co-founder and CTO of LimeLoo… [+2809 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rita Liao",
+    "title": "AquaLith might have an answer to the US battery material shortage problem | TechCrunch",
+    "description": "AquaLith looks to make new types of battery cell components that don't rely on the scarce metals normally used in lithium-ion battery packs.",
+    "url": "https://techcrunch.com/2023/09/22/aqualith-might-have-an-answer-to-the-us-battery-material-shortage-problem/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-154908090.jpg?resize=1200,800",
+    "publishedAt": "2023-09-21T19:30:48Z",
+    "content": "AquaLith has its eye on a billion-dollar market opportunity: new types of battery cell components that don’t rely on the scarce metals normally used in lithium-ion battery packs, which are increasing… [+3220 chars]"
+    }
+    ]
+    }
